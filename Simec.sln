@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Simec", "Simec\Simec.csproj", "{19F4AA9C-3D77-4956-BD0F-05ECD9A8733C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simec.MVC", "Simec.MVC\Simec.MVC.csproj", "{57392B95-240A-4E02-94DD-A965BF0957F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19F4AA9C-3D77-4956-BD0F-05ECD9A8733C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19F4AA9C-3D77-4956-BD0F-05ECD9A8733C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19F4AA9C-3D77-4956-BD0F-05ECD9A8733C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19F4AA9C-3D77-4956-BD0F-05ECD9A8733C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57392B95-240A-4E02-94DD-A965BF0957F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57392B95-240A-4E02-94DD-A965BF0957F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57392B95-240A-4E02-94DD-A965BF0957F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57392B95-240A-4E02-94DD-A965BF0957F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34D9FFCC-9651-49B3-95A0-A7551FA42D8A}
+	EndGlobalSection
+EndGlobal
